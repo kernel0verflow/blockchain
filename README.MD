@@ -1,8 +1,6 @@
 # Blockchain example in Python3
 
 I developed a blockchain with Python 3 to get a better understanding how a blockchain is working in general.
+It's fully working and theoretical be used to host a decentralized network
 
-# Features
-This applications based on a this specific Online Tutorial:
-[External Link to hackernoon.com] (https://hackernoon.com/learn-blockchains-by-building-one-117428612f46)
-If you like to learn more about the blockchaint technology check this blog out!
+If the Python Flask Server is running you can send HTTP-Get and HTTP-Post messages to the open Port!
